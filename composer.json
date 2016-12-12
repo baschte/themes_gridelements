@@ -21,6 +21,6 @@
   },
   "require": {
     "typo3-themes/themes": "~7.0.0",
-    "GridElementsTeam/Gridelements": "7.0.x"
+    "GridElementsTeam/Gridelements": "*"
   }
 }
